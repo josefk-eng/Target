@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Target</string>
+    <string name="html">
+        <![CDATA[
+        <h1>E-Receipt</h1>
+        <h2>Target Supermarket</h2>
+        <p>This is an electronically generated receipt <u>Rss</u>.</p>
+        <p>Look, this is <em>emphasized.</em> And here\'s some <b>bold</b>.</p>
+        <p>Order Details:
+        <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        </ul>
+        <p>Payment Details:
+        <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+        </ol>
+        ]]>
+    </string>
+    <string name="shop_by">SHOP BY CATEGORY      &#128073;</string>
+    <string name="filter_view_http_app">Target Link</string>
+    <string name="filter_view_target_category">Target Category</string>
+</resources>
